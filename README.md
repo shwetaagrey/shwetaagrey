@@ -10,6 +10,5 @@
 shwetaagrey/shwetaagrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# User
-social with emoji Social 
+# 💻 Social 
 [ linkedin.com ](https://www.linkedin.com/in/shweta-agrey/)
