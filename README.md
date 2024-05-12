@@ -13,4 +13,6 @@ You can click the Preview link to take a look at your changes.
 # 🛜 Social 
 [ linkedin.com ](https://www.linkedin.com/in/shweta-agrey/)
 
+[ Portfolio.com](https://www.datascienceportfol.io/shwetaagrey/)
+
 💻 Tech Stack:
