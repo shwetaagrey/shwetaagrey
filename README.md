@@ -10,5 +10,8 @@
 shwetaagrey/shwetaagrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💻 Social 
+# 🛜 Social 
 [ linkedin.com ](https://www.linkedin.com/in/shweta-agrey/)
+
+💻 Tech Stack:
+C C++ Python R Anaconda MicrosoftSQLServer MongoDB MySQL SQLite Canva Figma NumPy Pandas Plotly scikit-learn SciPy
