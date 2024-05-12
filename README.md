@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [ linkedin.com ](https://www.linkedin.com/in/shweta-agrey/)
 
 # 💻 Tech Stack:
-SQL 
-MYSQL
-Python ( Numpy, Pandas)
+SQL,  
+MYSQL, 
+Python ( Numpy, Pandas), 
 PowerBI 
