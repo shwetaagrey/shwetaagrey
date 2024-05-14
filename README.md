@@ -21,3 +21,4 @@ SQL,
 MYSQL, 
 Python ( Numpy, Pandas), 
 PowerBI 
+<img src="URL_FOR_PANDAS_ICON" alt="pandas" width="40" height="40"/>
