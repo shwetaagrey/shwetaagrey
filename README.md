@@ -22,4 +22,5 @@ MYSQL,
 Python ( Numpy, Pandas), 
 PowerBI 
 <img src="{{ url_for('static', filename='/'.join(['img', 'user', profilePic])) }}" />
+<img src="{{ url_for('static', filename='/'.join(['img', 'user', profilePic])) }}" />
 
